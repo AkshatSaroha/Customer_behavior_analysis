@@ -114,7 +114,7 @@ Dashboard enables:
 ### Steps
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/customer-behavior-analysis.git
+   git clone https://github.com/AkshatSaroha/Customer_behavior_analysis.git
 2. Run the Jupyter Notebook
    ```bash
    jupyter notebook main.ipynb
