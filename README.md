@@ -60,20 +60,22 @@ Key steps included:
 ---
 
 ### 4️⃣ SQL Analysis (MySQL)
-The cleaned dataset was imported into **MySQL** for structured analysis.
+o gain deeper business insights, **10 key business-driven questions** were answered using SQL queries on the cleaned dataset.
 
-- Performed analysis using:
+The analysis focused on:
+- Understanding **customer purchasing behavior**
+- Identifying **high-value and repeat customers**
+- Analyzing **product and category performance**
+- Evaluating the impact of **discounts, promo codes, and subscriptions**
+- Studying **demographic and geographic trends**
+
+Each question was addressed using optimized SQL queries involving:
   - `GROUP BY`
-  - `JOIN`
   - `CTE`
   - `WINDOW FUNCTIONS`
   - `ROW_NUMBER()` for deduplication
 
-Example insights extracted:
-- High-value customer segments
-- Most popular product categories
-- Repeat vs one-time buyers
-- Revenue contribution by demographics
+This approach ensured that insights were **data-driven, scalable, and business-relevant**, making the analysis suitable for real-world decision-making.
 
 ---
 
